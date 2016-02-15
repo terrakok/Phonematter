@@ -4,6 +4,17 @@ Phonematter provides a simple to use class for formatting and validating phone n
 
 ![alt tag](https://i.imgur.com/4nA9Eow.gif)
 
+##Dependency
+
+    repositories {
+        maven { url "https://dl.bintray.com/terrakok/terramaven" }
+    }
+    
+    dependencies {
+        compile "com.terrakok.phonematter:phonematter:1.0@aar"
+    }
+
+
 ##Usage
 
 In its simplest form you do the following:
