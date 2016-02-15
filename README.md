@@ -2,6 +2,8 @@
 
 Phonematter provides a simple to use class for formatting and validating phone numbers in Android apps.
 
+Original library: https://github.com/rmaddy/RMPhoneFormat
+
 ![alt tag](https://i.imgur.com/4nA9Eow.gif)
 
 ##Dependency
