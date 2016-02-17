@@ -1,5 +1,7 @@
 #Phonematter
 
+[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-Phonematter-green.svg?style=true)](https://android-arsenal.com/details/1/3160)
+
 Phonematter provides a simple to use class for formatting and validating phone numbers in Android apps.
 
 Original library: https://github.com/rmaddy/RMPhoneFormat
